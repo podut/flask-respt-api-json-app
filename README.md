@@ -277,12 +277,3 @@ După configurare, în PyCharm vei avea în dropdown-ul de Run:
 - **Flask - macOS** 🍎
 
 Selectează configurarea potrivită pentru sistemul tău și apasă **Play (▶️)**!
-
----
-
-# 💡 TIPS
-
-- **Debug mode:** Folosește butonul Debug (🐛) în loc de Run (▶️)
-- **Shortcut:** `Shift+F10` pentru run rapid
-- **Stop:** `Ctrl+C` în terminal pentru a opri serverul
-- **Browser:** Mergi la `http://localhost:5000` pentru a vedea aplicația
