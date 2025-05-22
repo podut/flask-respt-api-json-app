@@ -1,0 +1,3 @@
+"""
+Pachet pentru rutele aplicatiei.
+"""

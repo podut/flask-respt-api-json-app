@@ -1,0 +1,802 @@
+[
+    {
+        "id": 1,
+        "nume": "Laptop Dell XPS 13",
+        "pret": 5499.99,
+        "categorie": "Electronice",
+        "stoc": 23,
+        "descriere": "Laptop ultraportabil cu procesor Intel i7 și 16GB RAM"
+    },
+    {
+        "id": 2,
+        "nume": "Smartphone Samsung Galaxy S22",
+        "pret": 3299.99,
+        "categorie": "Electronice",
+        "stoc": 25,
+        "descriere": "Smartphone de ultimă generație cu cameră de 108MP"
+    },
+    {
+        "id": 3,
+        "nume": "Monitor LG UltraWide",
+        "pret": 1899.99,
+        "categorie": "Electronice",
+        "stoc": 10,
+        "descriere": "Monitor curbat de 34 inch cu rezoluție 4K"
+    },
+    {
+        "id": 4,
+        "nume": "Ochelari de soare Ray-Ban",
+        "pret": 899.99,
+        "categorie": "Accesorii",
+        "stoc": 22,
+        "descriere": "Ochelari de soare clasici cu protecție UV400"
+    },
+    {
+        "id": 5,
+        "nume": "Tastatura mecanică Logitech",
+        "pret": 499.99,
+        "categorie": "Periferice",
+        "stoc": 30,
+        "descriere": "Tastatura mecanică RGB cu switch-uri Cherry MX Blue"
+    },
+    {
+        "id": 6,
+        "nume": "Mouse wireless Razer",
+        "pret": 349.99,
+        "categorie": "Periferice",
+        "stoc": 20,
+        "descriere": "Mouse de gaming wireless cu 20.000 DPI"
+    },
+    {
+        "id": 7,
+        "nume": "Zahăr cristal",
+        "pret": 7.99,
+        "categorie": "Alimente",
+        "stoc": 100,
+        "descriere": "Zahăr pur cristal, import Bulgaria, pachet 1kg"
+    },
+    {
+        "id": 8,
+        "nume": "Mixer KitchenAid",
+        "pret": 1299.99,
+        "categorie": "Electrocasnice",
+        "stoc": 8,
+        "descriere": "Mixer profesional cu bol din inox și 10 viteze"
+    },
+    {
+        "id": 9,
+        "nume": "Televizor Samsung QLED 65\"",
+        "pret": 4599.99,
+        "categorie": "Electronice",
+        "stoc": 5,
+        "descriere": "Smart TV cu rezoluție 4K, HDR și tehnologie Quantum Dot"
+    },
+    {
+        "id": 10,
+        "nume": "Căști Sony WH-1000XM4",
+        "pret": 1299.99,
+        "categorie": "Audio",
+        "stoc": 12,
+        "descriere": "Căști wireless cu anulare activă a zgomotului și 30 ore autonomie"
+    },
+    {
+        "id": 11,
+        "nume": "Ulei de măsline extravirgin",
+        "pret": 39.99,
+        "categorie": "Alimente",
+        "stoc": 45,
+        "descriere": "Ulei pur de măsline, presare la rece, 1L, Grecia"
+    },
+    {
+        "id": 12,
+        "nume": "Frigider LG cu dispenser apă",
+        "pret": 2899.99,
+        "categorie": "Electrocasnice",
+        "stoc": 3,
+        "descriere": "Frigider Side-by-Side cu dispenser apă, gheață și răcire rapidă"
+    },
+    {
+        "id": 13,
+        "nume": "Carte 'Sapiens: Scurtă istorie a omenirii'",
+        "pret": 49.99,
+        "categorie": "Cărți",
+        "stoc": 25,
+        "descriere": "Bestseller internațional de Yuval Noah Harari"
+    },
+    {
+        "id": 14,
+        "nume": "Placă video NVIDIA RTX 4080",
+        "pret": 4299.99,
+        "categorie": "Componente PC",
+        "stoc": 4,
+        "descriere": "Placă video high-end pentru gaming și aplicații profesionale"
+    },
+    {
+        "id": 15,
+        "nume": "Set Creioane Colorate Faber-Castell",
+        "pret": 79.99,
+        "categorie": "Papetărie",
+        "stoc": 18,
+        "descriere": "Set de 48 creioane colorate premium pentru artiști"
+    },
+    {
+        "id": 16,
+        "nume": "Cafea boabe Lavazza",
+        "pret": 59.99,
+        "categorie": "Alimente",
+        "stoc": 30,
+        "descriere": "Cafea boabe premium din Italia, 1kg"
+    },
+    {
+        "id": 17,
+        "nume": "Aspirator robot iRobot Roomba",
+        "pret": 1499.99,
+        "categorie": "Electrocasnice",
+        "stoc": 7,
+        "descriere": "Aspirator autonom cu mapare inteligentă și conectare la aplicație"
+    },
+    {
+        "id": 18,
+        "nume": "Bicicleta mountain bike Merida",
+        "pret": 3299.99,
+        "categorie": "Sport",
+        "stoc": 6,
+        "descriere": "Bicicletă MTB cu cadru de aluminiu și 27 viteze"
+    },
+    {
+        "id": 19,
+        "nume": "SSD Samsung 2TB",
+        "pret": 799.99,
+        "categorie": "Componente PC",
+        "stoc": 14,
+        "descriere": "SSD de mare viteză pentru îmbunătățirea performanței calculatorului"
+    },
+    {
+        "id": 20,
+        "nume": "Espressor DeLonghi",
+        "pret": 999.99,
+        "categorie": "Electrocasnice",
+        "stoc": 9,
+        "descriere": "Espressor automat cu dispozitiv pentru spumare lapte"
+    },
+    {
+        "id": 21,
+        "nume": "Set cuțite bucătărie",
+        "pret": 399.99,
+        "categorie": "Bucătărie",
+        "stoc": 11,
+        "descriere": "Set profesional de 5 cuțite din oțel inoxidabil german"
+    },
+    {
+        "id": 22,
+        "nume": "iPad Pro 12.9",
+        "pret": 4999.99,
+        "categorie": "Electronice",
+        "stoc": 6,
+        "descriere": "Tabletă de înaltă performanță cu ecran Liquid Retina XDR"
+    },
+    {
+        "id": 23,
+        "nume": "Adidași Nike Air Max",
+        "pret": 599.99,
+        "categorie": "Încălțăminte",
+        "stoc": 17,
+        "descriere": "Încălțăminte sport cu tehnologie Air pentru amortizare maximă"
+    },
+    {
+        "id": 24,
+        "nume": "Ciocolată Milka",
+        "pret": 9.99,
+        "categorie": "Alimente",
+        "stoc": 75,
+        "descriere": "Ciocolată cu lapte alpin, 300g"
+    },
+    {
+        "id": 25,
+        "nume": "Imprimantă multifuncțională HP",
+        "pret": 799.99,
+        "categorie": "Birotică",
+        "stoc": 8,
+        "descriere": "Imprimantă, scanner și copiator cu conectare Wi-Fi"
+    },
+    {
+        "id": 26,
+        "nume": "Vin roșu Fetească Neagră",
+        "pret": 79.99,
+        "categorie": "Băuturi",
+        "stoc": 22,
+        "descriere": "Vin sec premium din podgoriile Dealu Mare, 2018"
+    },
+    {
+        "id": 27,
+        "nume": "Cameră foto Nikon D850",
+        "pret": 7999.99,
+        "categorie": "Foto-Video",
+        "stoc": 3,
+        "descriere": "Cameră DSLR profesională cu senzor de 45.7MP"
+    },
+    {
+        "id": 28,
+        "nume": "Perie rotativă Rowenta",
+        "pret": 299.99,
+        "categorie": "Îngrijire personală",
+        "stoc": 14,
+        "descriere": "Perie rotativă pentru coafat și uscat părul simultan"
+    },
+    {
+        "id": 29,
+        "nume": "Ghiozdan școlar ergonomic",
+        "pret": 149.99,
+        "categorie": "Școală",
+        "stoc": 32,
+        "descriere": "Ghiozdan cu suport lombar și spațiu pentru laptop"
+    },
+    {
+        "id": 30,
+        "nume": "Set vase gătit inox",
+        "pret": 499.99,
+        "categorie": "Bucătărie",
+        "stoc": 7,
+        "descriere": "Set de 10 piese din inox 18/10 pentru toate tipurile de plite"
+    },
+    {
+        "id": 31,
+        "nume": "Procesor Intel Core i9",
+        "pret": 2199.99,
+        "categorie": "Componente PC",
+        "stoc": 5,
+        "descriere": "Procesor high-end cu 16 nuclee și frecvență de 5.2GHz"
+    },
+    {
+        "id": 32,
+        "nume": "Șampon Dove",
+        "pret": 19.99,
+        "categorie": "Cosmetice",
+        "stoc": 42,
+        "descriere": "Șampon pentru păr deteriorat cu keratină, 400ml"
+    },
+    {
+        "id": 33,
+        "nume": "Scaun ergonomic birou",
+        "pret": 799.99,
+        "categorie": "Mobilier",
+        "stoc": 9,
+        "descriere": "Scaun de birou cu suport lombar și tetieră ajustabilă"
+    },
+    {
+        "id": 34,
+        "nume": "Ceas inteligent Apple Watch",
+        "pret": 1799.99,
+        "categorie": "Wearables",
+        "stoc": 11,
+        "descriere": "Smartwatch cu ECG, monitorizare oxigen în sânge și antrenamente"
+    },
+    {
+        "id": 35,
+        "nume": "Orez Basmati",
+        "pret": 24.99,
+        "categorie": "Alimente",
+        "stoc": 50,
+        "descriere": "Orez aromat premium din India, 2kg"
+    },
+    {
+        "id": 36,
+        "nume": "Boxe Bluetooth JBL",
+        "pret": 499.99,
+        "categorie": "Audio",
+        "stoc": 13,
+        "descriere": "Boxe portabile rezistente la apă cu autonomie de 24 ore"
+    },
+    {
+        "id": 37,
+        "nume": "Detergent lichid Ariel",
+        "pret": 49.99,
+        "categorie": "Curățenie",
+        "stoc": 28,
+        "descriere": "Detergent concentrat pentru haine colorate, 3L"
+    },
+    {
+        "id": 38,
+        "nume": "Consola PlayStation 5",
+        "pret": 2499.99,
+        "categorie": "Gaming",
+        "stoc": 6,
+        "descriere": "Consolă de jocuri de ultimă generație cu controller DualSense"
+    },
+    {
+        "id": 39,
+        "nume": "Saltea ortopedică",
+        "pret": 1299.99,
+        "categorie": "Dormitor",
+        "stoc": 4,
+        "descriere": "Saltea din spumă cu memorie și 7 zone de confort"
+    },
+    {
+        "id": 40,
+        "nume": "Baterie externă Anker",
+        "pret": 149.99,
+        "categorie": "Accesorii telefon",
+        "stoc": 19,
+        "descriere": "Baterie externă 20000mAh cu încărcare rapidă"
+    },
+    {
+        "id": 41,
+        "nume": "Cafetieră filtru Bosch",
+        "pret": 299.99,
+        "categorie": "Electrocasnice",
+        "stoc": 8,
+        "descriere": "Cafetieră cu timer programabil și capacitate de 12 cești"
+    },
+    {
+        "id": 42,
+        "nume": "Pastă de dinți Colgate",
+        "pret": 14.99,
+        "categorie": "Îngrijire personală",
+        "stoc": 55,
+        "descriere": "Pastă de dinți cu protecție completă și albire, 125ml"
+    },
+    {
+        "id": 43,
+        "nume": "Router WiFi 6 ASUS",
+        "pret": 699.99,
+        "categorie": "Networking",
+        "stoc": 7,
+        "descriere": "Router wireless de ultimă generație cu viteze de până la 10Gbps"
+    },
+    {
+        "id": 44,
+        "nume": "Miere polifloră",
+        "pret": 34.99,
+        "categorie": "Alimente",
+        "stoc": 33,
+        "descriere": "Miere naturală 100% de la apicultori locali, 500g"
+    },
+    {
+        "id": 45,
+        "nume": "Set pensule pictură",
+        "pret": 79.99,
+        "categorie": "Arte",
+        "stoc": 17,
+        "descriere": "Set 24 pensule profesionale pentru acuarelă și acrilice"
+    },
+    {
+        "id": 46,
+        "nume": "Mașină de spălat Samsung",
+        "pret": 1899.99,
+        "categorie": "Electrocasnice",
+        "stoc": 6,
+        "descriere": "Mașină de spălat cu încărcare frontală, 9kg și 1400 rpm"
+    },
+    {
+        "id": 47,
+        "nume": "Cort camping 4 persoane",
+        "pret": 599.99,
+        "categorie": "Outdoor",
+        "stoc": 7,
+        "descriere": "Cort impermeabil cu montare rapidă și 2 camere separate"
+    },
+    {
+        "id": 48,
+        "nume": "Pix Parker",
+        "pret": 299.99,
+        "categorie": "Papetărie",
+        "stoc": 12,
+        "descriere": "Pix de lux cu corp metalic și cerneală premium"
+    },
+    {
+        "id": 49,
+        "nume": "Geantă laptop Samsonite",
+        "pret": 399.99,
+        "categorie": "Genți",
+        "stoc": 15,
+        "descriere": "Geantă profesională pentru laptop de până la 17\""
+    },
+    {
+        "id": 50,
+        "nume": "Lampă de birou LED",
+        "pret": 149.99,
+        "categorie": "Iluminat",
+        "stoc": 21,
+        "descriere": "Lampă cu luminozitate ajustabilă și port USB"
+    },
+    {
+        "id": 51,
+        "nume": "Cremă de față Nivea",
+        "pret": 29.99,
+        "categorie": "Cosmetice",
+        "stoc": 35,
+        "descriere": "Cremă hidratantă pentru toate tipurile de ten, 50ml"
+    },
+    {
+        "id": 52,
+        "nume": "Aspirator vertical Dyson",
+        "pret": 1999.99,
+        "categorie": "Electrocasnice",
+        "stoc": 5,
+        "descriere": "Aspirator fără fir cu tehnologie ciclonică și autonomie de 60 minute"
+    },
+    {
+        "id": 53,
+        "nume": "Cântară de bucătărie digitală",
+        "pret": 79.99,
+        "categorie": "Bucătărie",
+        "stoc": 18,
+        "descriere": "Cântar precis cu bol detașabil și funcție tare"
+    },
+    {
+        "id": 54,
+        "nume": "Suport monitor ajustabil",
+        "pret": 199.99,
+        "categorie": "Birotică",
+        "stoc": 13,
+        "descriere": "Suport ergonomic pentru două monitoare cu înălțime reglabilă"
+    },
+    {
+        "id": 55,
+        "nume": "Pastă fructe de mare",
+        "pret": 29.99,
+        "categorie": "Alimente",
+        "stoc": 27,
+        "descriere": "Pastă italiană cu fructe de mare și sos de roșii, 400g"
+    },
+    {
+        "id": 56,
+        "nume": "Hard disk extern WD 4TB",
+        "pret": 499.99,
+        "categorie": "Stocare",
+        "stoc": 9,
+        "descriere": "Hard disk extern pentru backup și stocare, interfață USB 3.0"
+    },
+    {
+        "id": 57,
+        "nume": "Uscător de păr Philips",
+        "pret": 199.99,
+        "categorie": "Îngrijire personală",
+        "stoc": 11,
+        "descriere": "Uscător cu tehnologie ionică și 3 trepte de temperatură"
+    },
+    {
+        "id": 58,
+        "nume": "Set lego Technic",
+        "pret": 299.99,
+        "categorie": "Jucării",
+        "stoc": 8,
+        "descriere": "Set de construcție avansată cu 1200 piese"
+    },
+    {
+        "id": 59,
+        "nume": "Fripteuză cu aer cald Tefal",
+        "pret": 599.99,
+        "categorie": "Electrocasnice",
+        "stoc": 7,
+        "descriere": "Fripteuză sănătoasă care utilizează cu 90% mai puțin ulei"
+    },
+    {
+        "id": 60,
+        "nume": "Rucsac drumeție Deuter",
+        "pret": 499.99,
+        "categorie": "Outdoor",
+        "stoc": 12,
+        "descriere": "Rucsac de 40L cu sistem de ventilație și compartimente multiple"
+    },
+    {
+        "id": 61,
+        "nume": "Tablou canvas abstract",
+        "pret": 149.99,
+        "categorie": "Decorațiuni",
+        "stoc": 15,
+        "descriere": "Tablou abstract pe pânză pentru living, 80x120cm"
+    },
+    {
+        "id": 62,
+        "nume": "Mașină de cafea Nespresso",
+        "pret": 699.99,
+        "categorie": "Electrocasnice",
+        "stoc": 9,
+        "descriere": "Espressor compact cu sistem capsule și spumare lapte"
+    },
+    {
+        "id": 63,
+        "nume": "Ochelari pentru calculator",
+        "pret": 159.99,
+        "categorie": "Accesorii",
+        "stoc": 24,
+        "descriere": "Ochelari cu filtru pentru lumina albastră și protecție UV"
+    },
+    {
+        "id": 64,
+        "nume": "Covor persan tradițional",
+        "pret": 999.99,
+        "categorie": "Decorațiuni",
+        "stoc": 5,
+        "descriere": "Covor manual din lână cu model tradițional, 160x230cm"
+    },
+    {
+        "id": 65,
+        "nume": "Set șurubelnițe profesionale",
+        "pret": 149.99,
+        "categorie": "Unelte",
+        "stoc": 19,
+        "descriere": "Set de 12 șurubelnițe de precizie din oțel vanadium"
+    },
+    {
+        "id": 66,
+        "nume": "Termostat inteligent Nest",
+        "pret": 499.99,
+        "categorie": "Smart Home",
+        "stoc": 11,
+        "descriere": "Termostat cu Wi-Fi și control vocal prin Alexa și Google Home"
+    },
+    {
+        "id": 67,
+        "nume": "Pantaloni de schi Columbia",
+        "pret": 499.99,
+        "categorie": "Sport",
+        "stoc": 9,
+        "descriere": "Pantaloni impermeabili cu căptușeală termică și buzunare multiple"
+    },
+    {
+        "id": 68,
+        "nume": "Pastă de dinți pentru copii",
+        "pret": 12.99,
+        "categorie": "Îngrijire personală",
+        "stoc": 38,
+        "descriere": "Pastă de dinți cu aroma de fructe fără zahăr, 75ml"
+    },
+    {
+        "id": 69,
+        "nume": "Ceas de perete minimalist",
+        "pret": 89.99,
+        "categorie": "Decorațiuni",
+        "stoc": 22,
+        "descriere": "Ceas de design scandinav cu mecanism silențios"
+    },
+    {
+        "id": 70,
+        "nume": "Plăci ceramice păr Remington",
+        "pret": 199.99,
+        "categorie": "Îngrijire personală",
+        "stoc": 16,
+        "descriere": "Placă de îndreptat părul cu tehnologie anti-statică"
+    },
+    {
+        "id": 71,
+        "nume": "Joc FIFA 2024",
+        "pret": 279.99,
+        "categorie": "Gaming",
+        "stoc": 23,
+        "descriere": "Simulare fotbal pentru PlayStation și Xbox"
+    },
+    {
+        "id": 72,
+        "nume": "Mașină de tuns gazon",
+        "pret": 999.99,
+        "categorie": "Grădină",
+        "stoc": 6,
+        "descriere": "Mașină electrică cu 5 înălțimi de tăiere și colector de 40L"
+    },
+    {
+        "id": 73,
+        "nume": "Cafea măcinată Jacobs",
+        "pret": 19.99,
+        "categorie": "Alimente",
+        "stoc": 42,
+        "descriere": "Cafea premium, prăjire medie, 500g"
+    },
+    {
+        "id": 74,
+        "nume": "Ecran proiecție motorat",
+        "pret": 399.99,
+        "categorie": "Foto-Video",
+        "stoc": 7,
+        "descriere": "Ecran electric pentru proiecție cu telecomandă, 100 inch"
+    },
+    {
+        "id": 75,
+        "nume": "Mini frigider portabil",
+        "pret": 499.99,
+        "categorie": "Electrocasnice",
+        "stoc": 9,
+        "descriere": "Frigider compact de 45L ideal pentru birou sau dormitor"
+    },
+    {
+        "id": 76,
+        "nume": "Tabletă grafică Wacom",
+        "pret": 899.99,
+        "categorie": "Grafică",
+        "stoc": 8,
+        "descriere": "Tabletă profesională pentru design cu 8192 niveluri de presiune"
+    },
+    {
+        "id": 77,
+        "nume": "Microfon Blue Yeti",
+        "pret": 599.99,
+        "categorie": "Audio",
+        "stoc": 13,
+        "descriere": "Microfon USB pentru streaming, podcast și înregistrări"
+    },
+    {
+        "id": 78,
+        "nume": "Gel de duș Dove",
+        "pret": 14.99,
+        "categorie": "Îngrijire personală",
+        "stoc": 47,
+        "descriere": "Gel de duș hidratant cu parfum de citrice, 250ml"
+    },
+    {
+        "id": 79,
+        "nume": "Dronă DJI Mini 3",
+        "pret": 1999.99,
+        "categorie": "Foto-Video",
+        "stoc": 6,
+        "descriere": "Dronă compactă cu cameră 4K și autonomie de 30 minute"
+    },
+    {
+        "id": 80,
+        "nume": "Pernă ortopedică memorie",
+        "pret": 179.99,
+        "categorie": "Dormitor",
+        "stoc": 16,
+        "descriere": "Pernă din spumă cu memorie pentru un somn odihnitor"
+    },
+    {
+        "id": 81,
+        "nume": "Papuci de casă premium",
+        "pret": 69.99,
+        "categorie": "Încălțăminte",
+        "stoc": 27,
+        "descriere": "Papuci comozi cu căptușeală moale și talpă antiderapantă"
+    },
+    {
+        "id": 82,
+        "nume": "Set tacâmuri inox 24 piese",
+        "pret": 199.99,
+        "categorie": "Bucătărie",
+        "stoc": 14,
+        "descriere": "Set de 24 piese pentru 6 persoane din inox 18/10"
+    },
+    {
+        "id": 83,
+        "nume": "Stație meteo wireless",
+        "pret": 129.99,
+        "categorie": "Gadget",
+        "stoc": 11,
+        "descriere": "Stație cu senzor extern și prognoză meteo pe 3 zile"
+    },
+    {
+        "id": 84,
+        "nume": "Husă laptop protectoare",
+        "pret": 89.99,
+        "categorie": "Accesorii PC",
+        "stoc": 22,
+        "descriere": "Husă elegantă și rezistentă la impact pentru laptop 15\""
+    },
+    {
+        "id": 85,
+        "nume": "Set fitness cu greutăți",
+        "pret": 399.99,
+        "categorie": "Sport",
+        "stoc": 9,
+        "descriere": "Set de greutăți ajustabile până la 20kg cu suport"
+    },
+    {
+        "id": 86,
+        "nume": "Aparat de aer condiționat LG",
+        "pret": 1799.99,
+        "categorie": "Electrocasnice",
+        "stoc": 5,
+        "descriere": "Aparat de 12000 BTU cu Wi-Fi și filtru antialergic"
+    },
+    {
+        "id": 87,
+        "nume": "Plantă Monstera decorativă",
+        "pret": 149.99,
+        "categorie": "Grădină",
+        "stoc": 12,
+        "descriere": "Plantă de interior decorativă în ghiveci ceramic"
+    },
+    {
+        "id": 88,
+        "nume": "Set puzzle 1000 piese",
+        "pret": 79.99,
+        "categorie": "Jocuri",
+        "stoc": 17,
+        "descriere": "Puzzle cu peisaj montan pentru adulți"
+    },
+    {
+        "id": 89,
+        "nume": "Cizme de cauciuc impermeabile",
+        "pret": 129.99,
+        "categorie": "Încălțăminte",
+        "stoc": 19,
+        "descriere": "Cizme impermeabile pentru ploaie cu model colorat"
+    },
+    {
+        "id": 90,
+        "nume": "Jucărie de pluș ursuleț",
+        "pret": 59.99,
+        "categorie": "Jucării",
+        "stoc": 28,
+        "descriere": "Ursuleț de pluș moale, 40cm, pentru copii peste 3 ani"
+    },
+    {
+        "id": 91,
+        "nume": "Uscător rufe pliabil",
+        "pret": 149.99,
+        "categorie": "Casă",
+        "stoc": 15,
+        "descriere": "Uscător pliabil din inox cu capacitate mare"
+    },
+    {
+        "id": 92,
+        "nume": "Tabletă grafică pentru copii",
+        "pret": 99.99,
+        "categorie": "Educație",
+        "stoc": 24,
+        "descriere": "Tabletă pentru desen și scris cu display LCD"
+    },
+    {
+        "id": 93,
+        "nume": "Ceai verde organic",
+        "pret": 24.99,
+        "categorie": "Alimente",
+        "stoc": 39,
+        "descriere": "Ceai verde de înaltă calitate din Japonia, 100g"
+    },
+    {
+        "id": 94,
+        "nume": "Monitor pentru bebeluși",
+        "pret": 499.99,
+        "categorie": "Bebeluși",
+        "stoc": 11,
+        "descriere": "Monitor video cu vedere nocturnă și senzor de temperatură"
+    },
+    {
+        "id": 95,
+        "nume": "Ciocan rotopercutor Bosch",
+        "pret": 699.99,
+        "categorie": "Unelte",
+        "stoc": 9,
+        "descriere": "Ciocan rotopercutor profesional cu 3 funcții și putere 800W"
+    },
+    {
+        "id": 96,
+        "nume": "Portofel din piele naturală",
+        "pret": 199.99,
+        "categorie": "Accesorii",
+        "stoc": 18,
+        "descriere": "Portofel elegant din piele naturală pentru bărbați"
+    },
+    {
+        "id": 97,
+        "nume": "Set cearșafuri bumbac",
+        "pret": 149.99,
+        "categorie": "Dormitor",
+        "stoc": 21,
+        "descriere": "Set de cearșafuri din bumbac egiptean, 144TC"
+    },
+    {
+        "id": 98,
+        "nume": "Balsam de rufe Lenor",
+        "pret": 17.99,
+        "categorie": "Curățenie",
+        "stoc": 43,
+        "descriere": "Balsam concentrat cu parfum de lavandă, 1.8L"
+    },
+    {
+        "id": 99,
+        "nume": "Bormașină fără fir Makita",
+        "pret": 499.99,
+        "categorie": "Unelte",
+        "stoc": 8,
+        "descriere": "Bormașină cu 2 acumulatori Li-Ion și încărcător rapid"
+    },
+    {
+        "id": 100,
+        "nume": "Mănuși fitness profesionale",
+        "pret": 49.99,
+        "categorie": "Sport",
+        "stoc": 31,
+        "descriere": "Mănuși pentru antrenament cu protecție încheietură și grip superior"
+    }
+    ]
