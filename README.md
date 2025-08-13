@@ -1,4 +1,4 @@
-# Inventar Produse - Aplicație Flask cu REST API
+# Inventar Produse - flask-respt-api-json-app
 
 Aceasta este o aplicație web Flask care implementează un REST API pentru gestionarea unui inventar de produse. Aplicația permite efectuarea tuturor operațiilor CRUD (Create, Read, Update, Delete) asupra produselor din inventar, cu datele stocate într-un fișier JSON.
 
